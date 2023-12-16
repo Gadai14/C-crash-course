@@ -1,0 +1,74 @@
+.footer {
+     background: #232F3E;
+     padding: 50px 0px;
+     border-top: .4px solid white;
+}
+ .quicklink-menu {
+     list-style:none;
+     padding-left: 10px;
+}
+
+ .quicklink-menu li a {
+     color: #fff;
+     line-height: 2.5;
+     font-size: 15px;
+     text-decoration:none;
+}
+ .social-media {
+     list-style:none;
+     margin-top:10px;
+}
+ .social-media li {
+     float:left;
+     padding:0px 8px;
+}
+.social-media li a{
+   color:  #ed372c;
+   font-size:15px;
+     font-weight:bold;
+    
+     text-decoration:none;
+
+}
+ .quicklink-heading {
+     font-size:18px;
+     font-weight:bold;
+     color:#fff;
+     margin-bottom:10px;
+}
+ .get-in-touch {
+     list-style:none;
+     padding-left: 10px;
+}
+ .get-in-touch li i {
+     color: #ed372c;
+     font-size: 20px;
+}
+ .get-in-touch li {
+     color: #fff;
+     line-height: 2.5;
+     font-size: 15px;
+     text-decoration:none;
+}
+ .footer-e-mail {
+     font-size:15px;
+     font-weight:bold;
+     color:#fff;
+     text-decoration:none;
+}
+ .footer-website {
+     font-size:12px;
+     font-weight:bold;
+     color:#fff;
+     text-decoration:none;
+}
+.footer2-bacbor {
+     background: #232F3E;
+     padding:10px 0px;
+     border-top: 1px solid #898989;
+}
+ .footer2-content {
+     font-size:14px;
+     color:#fff;
+     text-align:center;
+}
